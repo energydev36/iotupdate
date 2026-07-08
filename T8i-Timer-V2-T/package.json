@@ -1,10 +1,10 @@
 {
-  "version": "3.004",
+  "version": "3.003",
   "model": "T8i-Timer-V2",
   "sn": ["ALL"],
   "forceUpdate": true,
   "token": "unique-update-tn-1231s",
-  "url": "https://raw.githubusercontent.com/energydev36/iotupdate/main/Laila-GreenHouse2/firmware_laila_greenhose2_1002.bin",
+  "url": "https://api-kasetiot.greensavethailand.com/firmware/6954d20c1d9d8bbed6061fd3/1783523264057-firmware-t8i-3003.bin",
   "description": "T8i Timer V2 Firmware Update"
 }
 
